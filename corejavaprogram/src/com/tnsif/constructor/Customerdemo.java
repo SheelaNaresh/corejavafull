@@ -24,7 +24,7 @@ public class Customerdemo {
 		
 		boolean output= c instanceof Customer;
 		System.out.println(output);
-				
+			
 
 
 		
