@@ -7,6 +7,7 @@ public class finalvarmethod {
 	
 	static {
 		b=7;
+		
 	}
 	// a=6;  shows error
 
